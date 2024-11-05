@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beyza-KOSE
+- 👋 Hi, I’m Beyza KOSE! 
 - 👀 I’m interested in learning new things about coding. 
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
